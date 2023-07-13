@@ -1,0 +1,7 @@
+tensorflow
+tensorflow-gpu
+keras
+opencv-python
+jupyter
+nltk
+pydot
